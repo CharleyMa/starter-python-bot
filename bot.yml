@@ -7,7 +7,7 @@ config:
     friendly_name: Severity level to show for logging.
     info: See https://docs.python.org/2/library/logging.html#levels
     default: DEBUG
-  - name: SECRET
+  - name: Test Bot
     friendly_name: Shhhh
     info: This is an secret option
     type: secret
